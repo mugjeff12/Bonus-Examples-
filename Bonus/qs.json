@@ -1,0 +1,13 @@
+[
+  {
+    "Question": "What is a dolphin?",
+    "Alternatives": ["Ambibians", "Fish", "Mamals"],
+    "Correct Answer": "3"
+  },
+  {
+    "Question": "What is an ant?",
+    "Alternatives": ["insect", "bird", "herbivore"],
+    "Correct Answer": "1"
+  }
+]
+
